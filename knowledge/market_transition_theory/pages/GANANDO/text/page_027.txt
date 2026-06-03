@@ -1,0 +1,53 @@
+GRAFICO17
+
+GRAFICO
+
+18
+
+_J
+Con el grafico 17 podemos responder las dos preguntas
+que faltan.
+
+Cuando se dio la sefal de entrada para el put compramos
+puts del SPY en 0.30 y al dia siguiente se vendieron por 0.80.
+Ahi concluye el trade y luego se espera por otra oportunidad.
+
+6
+
+iElintento de subida (vela verde del dia 24) fue negado
+o borrado
+
+por las velas siguientes? La respuesta es
+
+si, ya que intento subir, pero no puedo continuar el
+
+Veamos otros ejemplos sobre este modelo que a mi me
+parece muy preciso y acertado.
+
+movimiento.
+
+4) La ultima pregunta es: ¢Si trazo una linea de piso siguiendo la subida, una vela roja rompié ese piso? La
+
+Recuerda:
+
+para tener éxito es importante que se cum-
+
+plan los cuatro pasos.
+
+respuesta es si. En ese punto se cumplieron los cuatro
+pasos y debemos comprar puts, justo en esa hora, pues
+este modelo esta construido en el marco de tiempohora. Por consiguiente, debemos comprar puts debido
+a que estan baratos y unas horas después, o al dia
+siguiente, los venderemos mas caros.
+
+Ganando
+
+en cualquier contexto y direccién
+
+Alejandro Cardona
+
+|
+
+53
+
+

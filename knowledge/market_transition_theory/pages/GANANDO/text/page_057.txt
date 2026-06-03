@@ -1,0 +1,193 @@
+CDS
+
+SPREAD. Cantidad anual que debe pagar el compra-
+
+CONTRACT
+
+SIZE.
+
+Es la cantidad del activo subyacen-
+
+dor de un CDS al vendedor durante la vigencia del contrato.
+
+te cubierto
+
+Se expresa como un porcentaje sobre el valor nominal.
+
+opcion representa a 100 acciones.
+
+CLOSING
+
+CORRELACION.
+
+PRICE.
+
+Es el precio al cual la transaccion es
+
+realizada.
+
+por el contrato
+
+de opcién.
+
+Normalmente,
+
+una
+
+Indica la fuerza y la direccion de una
+
+relacion lineal entre dos variables aleatorias. Se considera que
+
+COLOCACION
+
+PRIMARIA.
+
+Es la oferta de nuevos ti-
+
+tulos por parte de una entidad para captar recursos con el
+fin de desarrollar su objeto social. En este caso existe una
+relacién directa entre la entidad emisora y el adquiriente o
+primer beneficiario del valor.
+
+dos variables cuantitativas estan correlacionadas cuando los
+valores de una de ellas varian sistematicamente con respecto
+a los valores homdnimos de la otra: si tenemos dos variables
+(A y B) existe correlacién si al aumentar
+
+los valores de A lo
+
+hacen también los de B y viceversa.
+La correlaci6n entre dos variables no implica, por si misma,
+
+COMISION.
+
+Retribucién que da un inversionista a un co-
+
+misionista por ejecutar una orden de compra o venta de los
+valores negociables en Bolsa, por asesorarlo en la misma
+
+o
+
+por administrar los valores del cliente, segtin sea la solicitud
+del mismo.
+
+ninguna relacion de causalidad.
+CORRETAJE.
+
+Accién
+
+de intermediacidn
+
+donde
+
+un co-
+
+rredor de bolsa o broker pone en contacto a dos personas
+naturales o juridicas para la negociacion de un titulo valor, sin
+llegar a intervenir en el proceso de negociacién.
+
+COMMODITIES.
+
+Bienes primarios que se transan interna-
+
+cionalmente. Por ejemplo: granos, metales, productos ener-
+
+COTIZACION.
+
+Precio registrado en una Bolsa cuando se
+
+géticos (petrdleo, carbon, etc.) y suaves (café, algod6n, etc.).
+
+realiza una negociacion de valores.
+
+CONSUMO
+
+COVARIANZA.
+
+PRIVADO. Lo realizan los entes privados en
+
+Representa
+
+la media
+
+del
+
+producto
+
+de
+
+una economia (incluye el de las empresas) y se conoce tam-
+
+las desviaciones de dos variables en relacién a su media.
+
+bién como consumo personal.
+
+Medida
+
+CONSUMO
+
+PUBLICO.
+
+estadistica
+
+cuyo
+
+valor
+
+representa
+
+una
+
+asociacién
+
+lineal entre dos variables. Si las dos variables siempre estan
+Gasto que realiza el Estado en
+
+simultaneamente
+
+por encima o por debajo de la media
+
+bienes y servicios. Un alto nivel de consumo publico en rela-
+
+covarianza
+
+cidén con el consumo privado indica una alta intervencidén del
+
+valor cercano
+
+Estado en la economia.
+
+movimientos de las variables.
+
+es
+
+positiva,
+
+en
+
+caso
+
+a cero sugiere
+
+contrario
+
+poca
+
+es
+
+relacién
+
+negativa.
+
+la
+Un
+
+entre
+
+los co-
+
+Alejandro Cardona
+
+| 113
+
+

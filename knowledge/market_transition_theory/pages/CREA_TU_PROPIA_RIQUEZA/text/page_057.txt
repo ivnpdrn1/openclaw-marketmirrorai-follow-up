@@ -1,0 +1,79 @@
+Crea tu Propia Riqueza
+Alejandro Cardona
+
+CDAT (CERTIFICADO DE DEPOSITO DE AHORRO A TERMINO).
+
+Como su nombre lo indica se trata de ahorro a término, con un
+plazo no menor a cinco dias, y cuyos intereses pueden pactarse libremente con el cliente. Son nominativos y no se pueden
+negociar en un mercado secundario. No constituyen titulos
+valores.
+CDOs (COLLATERALIZED DEBT OBLIGATIONS). Es un producto
+de crédito estructurado. Estan compuestos por activos que tienen
+diferentes calificaciones de riesgo, que pueden ir de titulos AAA
+hasta acciones. Es un vehiculo importante para la inversién de
+portafolio y diversificacion de riesgo.
+CDS O CREDIT DEFAULT SWAPS. Contratos derivados de crédito
+que permiten a su tenedor protegerse del riesgo de impago por
+parte del emisor.
+CDS SPREAD. Cantidad anual que debe pagar el comprador de
+un CDS al vendedor durante la vigencia del contrato. Se expresa
+como un porcentaje sobre el valor nominal.
+
+COLOCACION PRIMARIA. Es la oferta de nuevos titulos por parte
+
+de una entidad para captar recursos con el fin de desarrollar su
+objeto social. En este caso existe una relacién directa entre la
+
+entidad emisora y el adquiriente o primer beneficiario del valor.
+
+COMISION. Retribucién que da un inversionista a un comisionista
+por ejecutar una orden de compra o venta de los valores negociables en Bolsa, por asesorarlo en la misma 0 por administrar los
+valores del cliente, segun sea la solicitud del mismo.
+COMMODITIES. Bienes primarios que se transan internacionalmente. Por ejemplo: granos, metales, productos energéticos
+(petrdleo, carbdn, etc.) y suaves (café, algodon, etc.).
+
+@
+
+Crea tu Propia Riqueza
+Invirtiendo con Poder
+
+CONSUMO
+
+PRIVADO.
+
+Lo realizan
+
+los entes
+
+privados
+
+en
+
+una
+
+economia (incluye el de las empresas) y se conoce también como
+consumo personal.
+
+CONSUMO PUBLICO. Gasto que realiza el Estado en bienes y
+servicios. Un alto nivel de consumo publico en relacién con el
+consumo privado indica una alta intervencion del Estado en la
+economia.
+CORRELACION. Indica la fuerza y la direccién de una relacion lineal entre dos variables aleatorias. Se considera que dos variables
+cuantitativas estan correlacionadas cuando los valores de una de
+ellas varian sistematicamente con respecto a los valores homonimos de la otra: si tenemos dos variables (A y B) existe correlacion si
+
+al aumentar los valores de A lo hacen también los de B y viceversa.
+La correlacién entre dos variables no implica, por si misma, ninguna relacién de causalidad.
+CORRETAJE. Accién de intermediacién donde un corredor de
+bolsa o broker pone en contacto a dos personas naturales o juridicas para la negociacién de un titulo valor, sin llegar a intervenir en
+el proceso de negociacién.
+COTIZACION. Precio registrado en una Bolsa cuando se realiza
+una negociacién de valores.
+COVARIANZA. Representa la media del producto de las desviaciones de dos variables en relacién a su media. Medida estadistica
+cuyo valor representa una asociacion lineal entre dos variables. Si
+las dos variables siempre estan simultaneamente por encima o
+por debajo de la media la covarianza es positiva, en caso contrario
+es negativa. Un valor cercano a cero sugiere poca relacién entre
+los co-movimientos de las variables.
+
+

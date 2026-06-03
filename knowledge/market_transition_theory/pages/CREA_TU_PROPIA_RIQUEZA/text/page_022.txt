@@ -1,0 +1,54 @@
+Crea tu Propia Riqueza
+Alejandro Cardona
+
+9. EI SPY supera el QQQ (Nasdaq) y Dia (Dow Jones) pues se mueve més rapido que los anteriores permitiendo ganar dinero
+mas rapido.
+10. Las opciones del SPY tienen precios bastante favorables y
+reaccionan muy bien frente a cambios en el precio del activo
+
+(SPY).
+
+11. Las opciones financieras del SPY también son las de mayor
+volumen en el mercado. Lo anterior evita imperfecciones que
+pueden afectar la rentabilidad.
+Por todo esto, mi sugerencia es que se enfoque en el SPY mientras
+va adquiriendo experiencia. En la actualidad, el 70% de mi atencidn esta enfocada en el SPY y el otro 30% de mi enfoque esta
+en Amazon, Facebook y Apple. Aunque aclaro que el SPY supera
+a todos con una ventaja bastante lejana. Lo anterior es un alivio
+también, pues de miles de instrumentos existentes, he comprobado que esos 4 son los de mayor poder.Y en realidad, para hacer
+dinero en abundancia, no necesita mas que esos.
+
+Crea tu Propia Riqueza
+Invirtiendo con Poder
+
+VOLUMEN DE LAS
+TRANSACCIONES
+
+| volumen de transacci6n es una variable de confirmacidn para las estrategias que explicaré mas adelante.
+Es mas confiable en algunos casos cuando vemos que
+la vela decisiva que esta dando la entrada a la estrategia cuenta con un volumen importante, comparada con las
+horas anteriores. Sin embargo, el volumen puede prestarse para
+confusiones y malentendidos, por lo cual explicaré detalles de los
+
+aspectos a tener en cuenta con esta variable.
+
+El primer aspecto fundamental que debe saber es que mis estrategias funcionan con volumen o sin volumen. Esto ocurre
+sobre todo con el SPY, excepto en la estrategia del primer gap al
+alza, donde uno de los requisitos es que debemos tener por lo
+menos una vela con volumen mayor o igual a 20 millones, en
+el marco de tiempo hora. Durante el 2017, periodo de la nueva
+presidencia americana, los volumenes cambiaron, presentandose
+
+vollmenes mas bajos en el marco de tiempo-hora, con respecto
+alo que estaba acostumbrado en los dos periodos presidenciales
+anteriores.
+Otro aspecto para tener en cuenta es que el volumen debe darse
+en la vela decisiva, no en otra vela. Muchas personas ven un alto
+
+volumen y solo por eso quieren comprar, para después darse
+cuenta que no fue la mejor decisién. Es decir, si estoy en zona
+cara 0 lejos ya de la estrategia, y sale una vela en hora con alto
+volumen, eso no quiere decir que deba comprar.
+Es importante que sea cual sea el volumen, asi parezca muy atractivo en todos los casos, debemos respetar las reglas de horario y
+
+

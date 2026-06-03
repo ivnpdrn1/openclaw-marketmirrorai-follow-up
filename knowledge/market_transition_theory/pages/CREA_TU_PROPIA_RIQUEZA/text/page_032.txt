@@ -1,0 +1,72 @@
+Crea tu Propia Riqueza
+
+Crea tu Propia Riqueza
+Invirtiendo con Poder
+
+Los promedios moéviles también sirven para confirmar si estamos
+en zona barata 0 zona cara. En este caso, sinos encontramos en la
+parte superior, lejos del promedio movil de 40 en hora, estamos
+en zona cara. Si hay una caida y estamos cerca o tocamos el promedio movil de 40 estaremos en zona barata.
+
+Supongamos que compro 10 contratos CALL del SPY, y que esos contratos le costaron 0.30 USD, lo cual representa 30 USD por contrato,
+para una inversion total de $300 USD. Los drdkerso firmas comisionistas de bolsa cobran aproximadamente de la siguiente forma cuando
+uno esta invirtiendo en opciones: $7 USD fijo, mas 1.25 USD por cada
+contrato. Si aplicamos la formula a este caso, nos daria lo siguiente:
+$7 USD + 1.25 * 10 contratos = 19.5 USD de comisiones. Si sumamos
+lo anterior al monto inicial de $300 USD, nos daria una inversion total
+
+Alejandro Cardona
+
+Para poder realizar compras de opciones CALL utilizando esta
+estrategia debemos cumplir lo siguiente:
+> Estar en tendencia al alza (verificando los promedios moéviles).
+> Si se presenta una caida, debemos estar cerca o tocar el promedio mévil de 40 en hora.
+' ® En la medida que la caida se va presentando habria que trazar una linea bajista tocando levemente las velas por encima.
+Dicha linea cumpliria una funcién de techo durante la caida,
+como podemos ver en el grafico.
+> Los precios deben romper esa linea con una vela verde bien
+formada.
+Estos son algunos aspectos generales de esta estrategia. Enla mayoria de los casos, el mercado sigue subiendo uno o dos dias maximo
+
+y después cae nuevamente, buscando otra vez dicho promedio. Lo
+anterior indica que podemos tener rentabilidades del 100% al 300400% maximo, en la mayoria de los casos. En algunas ocasiones
+he logrado mas porque las opciones han reaccionado con mayor
+fuerza. Sin embargo, en esta estrategia es conveniente que utilice el
+
+de $319 USD.
+
+Ahoratomamos ese monto ylo dividimos porel numero de contratos,
+
+y nos da el costo unitario, incluyendo comisiones de $319/10 = $31.9.
+
+Ese valor se multiplica por dos para obtener el 100% limpio, es decir
+
+quitando el valor delas comisiones. $31.9x 2 =$64 aproximadamente
+0 $0.64,
+
+En los seminarios que dicto, les menciono a los alumnos que estan
+empezando, que en este negocio hay dos trabajos: uno, comprar
+bien y, dos, colocar el limite.
+
+Colocar el precio limite después de la compra tiene varios beneficios.
+Uno de ellos es que el sistema queda programado para vender automaticamente. Otro beneficio es que si al siguiente dia se presenta un
+gap 0 salto, él le va a vender al precio mas caro que encuentre. Es decir, que asi hayamos colocado 0.64 como precio limite, si el mercado
+abre en 1.5 0 $150 USD, el sistema va a vender a ese precio.
+
+Para calcular el precio limite se deben realizar las siguientes operaciones:
+
+En muchos casos la tarea mas dificil para algunos es vender adecuadamente al precio limite. Esto va a servir para vender correctamente y
+evitarse malestares preguntandose, por qué no vendi? Por ultimo, si
+usted es una persona ocupada, esta herramienta le va a permitir ocuparse de sus asuntos sin tener que estar pendiente del computador
+todo el tiempo para saber cuando vender.
+
+ies)
+
+7]
+
+“Limit Price” (Precio Limite) para vender, sobre todo si usted esta co-
+
+menzando su proceso de aprendizaje. Esta herramienta le permitira
+vender automaticamente sus opciones cuando el precio se doble.
+
+

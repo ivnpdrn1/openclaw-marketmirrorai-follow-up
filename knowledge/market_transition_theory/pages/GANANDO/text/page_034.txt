@@ -1,0 +1,148 @@
+De manera
+
+que aun si se cumplen
+
+los cuatro pasos de
+
+En el cuadro
+
+uno, donde
+
+esta la columna
+
+post-earning
+
+este modelo, hay riesgos. Por lo tanto, debe utilizarse con
+
+marcada por el circulo amarillo, podemos ver que la accién
+
+inversiones pequefias para que no afecten al inversionista si
+
+de FB ha subido mas veces de las que ha caido en los ultimos
+
+no se da el resultado.
+
+diez eventos. Cuando revisamos esto, antes del ultimo evento
+
+:
+
+(28 de abril), eran nueve, pero es evidente que la mayoria de
+Continuemos con el tercer requisito: este paso consiste en
+
+las veces ha subido.
+
+mirar la historia de los reportes de la compajiia y calcular la
+probabilidad. Hace poco hicimos los earnings de Facebook
+
+Revisando el histérico de enero de 2020 a enero de 2021,
+FB ha subido siete veces y ha caido dos, es decir, tiene una
+
+(FB) y AAPL del 28 de abril de 2021.
+
+probabilidad de subir del 78 %.
+Para el caso de FB consultamos la pagina optionslam.com
+Ahora,
+
+y los resultados fueron los siguientes:
+
+CUADRO
+
+ee
+
+EARNINGS
+DATE
+
+PREEARNINGS
+CLOSE
+
+POST EARNINGS
+OPEN
+O
+
+CLOSE MEAN/MEDIAN MOVEMENT OF
+PREVIOUS 12 EARNINGS @
+MEAN
+MEDIAN
+OPEN HIGH LOW CLOSE CLOSE’ MAXY% MEAN MEDIAN 2
+RAW
+
+con
+
+esta
+
+estrategia
+
+no
+
+nos
+
+sirve
+
+realmente la probabilidad de que FB suba mas del 6 %, sin
+}
+
+PRICE MOVEMENT WITHIN ONE TRADING
+DAY
+
+ganar
+
+cualquier porcentaje de crecimiento: debe ser una subida
+mayor al 7 %, si encontramos cerca nuestro strike. Asi que
+
+1
+
+Earnings Events Available: 36 @
+
+para
+
+%
+
+tener en cuenta el evento
+
+sucedido
+
+en
+
+cuatro
+
+de abril, es del 44 %, lo que
+
+de
+
+nueve
+
+eventos.
+
+ha
+
+Encontrar
+
+probabilidades de mas del 40 %, en este estudio, pueden
+considerarse como
+
+buenas
+
+o aceptables.
+
+El cuarto y ultimo paso es analizar a dénde llegaria el precio de la accidén en estudio en caso de que subiera el 5 %;
+
+luego, simulo con el 7 % y después con el 10 % para evaluar
+si nuestros strikes estan caros o baratos (considerando 5 %
+como barato y 10 % 0 mas como caro).
+
+Utilizaré como ejemplo el ultimo reporte de FB para este
+ejercicio y luego daré un par de ejemplos mas:
+
+66
+
+|
+
+Ganando en cualquier contexto y direccién
+
+Alejandro Cardona
+
+|
+
+67
+
+

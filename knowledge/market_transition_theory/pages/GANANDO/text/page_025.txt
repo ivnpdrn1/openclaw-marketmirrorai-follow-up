@@ -1,0 +1,17 @@
+MODELO
+
+PARA
+
+COMPRAR
+
+PUTS
+
+6
+
+Put en canal
+
+bajista
+
+49
+
+

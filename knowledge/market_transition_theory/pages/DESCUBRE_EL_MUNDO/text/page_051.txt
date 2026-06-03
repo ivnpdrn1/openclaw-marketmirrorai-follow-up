@@ -1,0 +1,277 @@
+Crea tu Propia Riqueza
+
+Crea tu Propia Riqueza
+Descubre el Mundo de las Inversiones y Aprende a Ganar en la Bolsa de Valores
+
+Alejandro Cardona
+
+$8,000
+
+Brokerage
+
+$6,000
+
+$902
+
+$4,000
+
+$0
+
+Brokerage
+
+Account
+
+Value
+
+Chart |
+
+lose
+
+=
+
+=e
+
+rt
+
+me
+
+kd
+
+Completed:
+
+Sort By:
+
+Execution Time
+
+_
+
+Chg $|%
++24.02
++71.05
+
+Chart
+
+is
+
+curre
+
+$3,032.45
+
+Balance Deta
+day
+
+gGi
+Mkt Value Total Chg $ Total G/L$ Volur
+1,012.00
+.
+2
+1,560.00
++e4
+
+—_
+
+Estas son las opciones de American Express y CME Group, sus utilidades se ven en total Gain and Loss. En el primer caso tiene una
+
+ganancia de $320 y en el segundo de $895,26 producto de una
+subida en estos activos financieros.
+
+En el simbolo podemos ver primero el nombre de la accion. Segundo la fecha de expiraci6n, luego sigue el strike price (precio al
+cual creemos que el activo va a llegar, y va a pasar de ahi). Luego
+
+vemos una “C” que significa CALL. El Last Price nos dice el precio
+
+de la opcién en el momento, y al final vemos el volumen de opciones transadas ese dia.
+
+ia
+
+Open:
+
+¥
+
+You have no recently completed orders.
+
+Qty Last Price
+2.53
+5.20
+
+Value
+
+Orders Edit
+
+AG
+
+You have no open orders.
+
+Positions Exit
+Symbol «
+AXP MAR 20 2015 85.00
+CME MAR 20 2015 90.00 C
+
+(3
+
+a
+
+Orders &
+Open:
+
+Account
+
+aa
+
+$8,339.
+
+Deta
+[a]
+
+Total Brokerage
+
+$902.
+Total
+
+$4.
+
+4.5
+
+$902
+
+com
+s
+
+$13.
+
+—
+
+Balances
+
+Sort By
+
+Md
+
+Completed:
+
+SortBy:
+
+&
+
+SPY APR 17 2015 210.50 C
+Sell to Close 20¢
+@ $2.10 Limi
+
+Modify
+
+| Cancel
+
+SPY APR
+Bought to
+
+SPY APR 17 2015 208.00 ¢
+Sell to Close 2¢ @ $4.00 Limit
+
+per
+Modify
+
+| Cancel
+
+SPY APR 17 2015 210.50 C
+Boughtto Open 12c @
+$1.05
+
+SPY MAR
+
+¥.
+
+17 2015 210.50 C
+Open 8
+@ $1.05 - Tc
+
+31 2015 208.00C -
+
+Soldto Close 20¢ @ $0.59- Ti
+3 Roundtrips until POT Thre
+
+Scottrade does not promote day trading.
+
+i
+Positions
+
+Edt
+
+:
+
+Symbol «
+
+SPY APR
+
+17 2015 208.00 C
+
+SPY
+
+17 2015
+
+APR
+
+210.50 C
+
+Total Mkt Value: $2,972.00
+
+Qty
+
+Chg
+
++
+
+$]
+
+Mkt Value
+
+512.00
+
++9
+
+2,460.00
+
+Total Mkt Chg ($|%): 92.99%
+
+Total Chg$
+
++212.00
+
++1
+
+Ask
+
+OG
+Bid
+
+2.58
+
+2.56
+
+1.22
+
+1.21
+
+Total G/
+
+1
+
+Portfolio G/L ($|%): 526.50
+
+En este cuadro tenemos opciones del SPY. Como vemos, solo en un
+dia tuvo incrementos del 70% y 98%, segiin podemos ver aqui. El
+activo es el SPY, la fecha de expiraci6n abril 17, precios Strike en el
+
+primer caso $208 y el segundo $210,50 y son opciones CALLS.
+
+Luego vemos “Qty” o cantidad de contratos (2 y 20 respectivamen-
+
+te), la variacin del dia, el valor total actual, vemos ademas el BID
+
+(precio al cual me las pagarian si yo quisiera venderlas) y el ASK (precio al cual yo tendria que pagar si quisiera comprar mas). Recuerde,
+siempre le van a comprar barato y a vender caro (cuando usted vea
+diferencias muy grandes entre el BID y el ASK) no recomiendo que
+utilice dicho instrumento, es por eso que prefiero el SPY.
+
+26)
+
+

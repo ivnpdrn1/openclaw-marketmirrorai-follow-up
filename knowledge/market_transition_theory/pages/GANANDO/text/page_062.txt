@@ -1,0 +1,151 @@
+MARKET-MAKERS.
+
+Creadores de mercado.
+
+Estan en-
+
+OPCION
+
+DE COMPRA
+
+(CALL). Es una Operacién con
+
+cargados de anunciar permanentemente los precios por los
+
+Derivado por virtud de la cual la Parte que la adquiere, ob-
+
+que estan dispuestas a comprar o a vender cierta cantidad
+
+tiene el derecho de comprar el subyacente en una fecha y
+
+de titulos.
+
+a un precio determinados y, a su vez, la parte que la vende
+
+.
+
+queda
+MERCADO
+
+DE FUTUROS.
+
+Dondesecompran yvenden
+
+contratos de mercancias o valores en los que se hace uso de
+
+obligada a vender tal subyacente.
+
+En las Opciones
+
+americanas, el comprador de la Opcidn la puede ejercer en
+cualquier momento, antes y en la fecha de cumplimiento.
+
+una promesa con alguna fecha futura a precios prefijados en
+la negociacion.
+
+OPCION
+
+Dichos contratos a futuro, que permiten disminuir el riesgo
+de fluctuaciones de los precios en el corto plazo, pueden ser
+fijos o estandarizados por unidades de cantidad, requisitos
+de calidad, fecha de vencimiento u otras caracteristicas.
+
+MERCADO
+
+DE
+
+OPCIONES.
+
+Donde se negocian dere-
+
+chos de compra 0 venta de una materia prima o un producto
+financiero en un plazo determinado y a un precio fijo.
+NAKED
+
+OPTION.
+
+Es una posicién corta con opciones
+
+que no esta totalmente garantizada si le ejercen la opcidn.
+Una posicidn call corta esta descubierta cuando no posee
+una posici6n larga en el activo subyacente o no se encuentra
+cubierta por otra operacién con derivados.
+
+OPCION.
+
+(‘PUT’), en un tiempo
+
+precio fijo, una materia prima o un producto financiero. El
+derecho que tiene el comprador de la opcidn se ejerce a su
+discrecién, mientras que para el emisor existe una obligacién
+
+(PUT).
+
+Es una Operacién con
+
+tiene el derecho de vender el subyacente en una fecha y a
+un precio determinados y, a su vez, la parte que la vende
+queda obligada a comprar tal subyacente. En las Opciones
+americanas, el vendedor de la Opcidn la puede ejercer en
+cualquier momento, antes y en la fecha de cumplimiento.
+OPEN
+
+INTEREST.
+
+opciones
+
+pendientes en una serie determinada
+
+Es el numero total de contratos de
+del activo
+
+subyacente.
+OUT
+
+THE
+
+MONEY.
+
+Es el término usado para una opcién
+
+que no tiene valor intrinseco. El precio de la opcién esta constituido solo por valor extrinseco.
+«
+
+estipulado y a
+
+VENTA
+
+Derivado por virtud de la cual la Parte que la adquiere, ob-
+
+Una opcién call esta out the money cuando el precio
+del activo subyacente esta por debajo del precio de
+
+En el mercado a plazo, el derecho de comprar
+
+(‘CALL) 0 de vender
+
+DE
+
+ejercicio.
+
+e
+
+Una opcién put esta out the money si el precio del
+activo esta por encima
+
+del precio de ejercicio de la
+
+opcidn.
+
+contingente hasta la expiracion de la opcidn.
+122
+
+|
+
+Ganando en cualquier contexto y direccién
+
+Alejandro Cardona
+
+| 123
+
+

@@ -1,0 +1,94 @@
+Crea tu Propia Riqueza
+Alejandro Cardona
+
+Veamos qué componentes tienen las opciones:
+].
+
+Hay dos tipos de opciones financieras CALL y PUT, los CALLS
+se utilizan en tendencias al alza como es el caso del SPY. Los
+PUTS se utilizan en tendencias a la baja como es el caso del
+oro y laplata (SLV y GLD). Hay que tener siempre presente que
+lo que mejor funciona en tendencias al alza son los CALLS. Si
+cree que algo va a subir y quiere hacer dinero debe mirar los
+contratos CALLS.
+
+2. Las opciones financieras tienen una fecha de expiraci6n 0 “expiration date”, es decir las opciones financieras se vencen, y si
+
+lo que usted crea o pensaba que iba a pasar no pasé, expiran,
+y su valor queda en cero.
+
+3. Tienen un precio “strike”. Este es el precio al cual tenemos el
+derecho a comprar 0 vender un Stock 0 ETF. Por ejemplo, si ha-
+
+bia comprado un strike $202 en el SPY y el precio sube a $211,
+
+como lo hicimos en el ejemplo anterior, ganaria $9 por contrato, esto multiplicado por 100 veces son $900. Y seguramente,
+
+dependiendo del tiempo, su opcién le pudo haber costado
+
+algo entre $100 y $200. Es decir, se produjo una utilidad de
+
+$700. Lo interesante es que se logré con $200, y muy probablemente en un periodo de tiempo de dos a tres semanas.
+
+. Las opciones son un derivado financiero, es decir, se derivan
+de algo. En este caso, para que existan opciones del SPY debe
+existirel SPY. Si vamos a comprar opciones de Apple es porque
+
+existe Apple. Las opciones reaccionan a los movimientos del
+activo (ETF o stocks). Por ejemplo, si Apple sube el 4% en un
+dia, las opciones CALL de Apple pueden subir un 100% 0 mas.
+
+Esto es lo que hace mucho mas interesante a las opciones,
+porque reaccionan o se mueven mas rapido que las acciones y
+ETF’s, pues son apalancamiento.
+
+21)
+
+Crea tu Propia Riqueza
+Descubre el Mundo de las Inversiones y Aprende a Ganar en la Bolsa de Valores
+
+5. Las opciones tienen un precio independiente al del activo, es
+decir, estan correlacionadas con el SPY o con cualquier accién,
+pero el precio de la prima en las opciones varia dependiendo de
+factores como el “strike Price”, la volatilidad, el tiempo, entre
+otros. Por ejemplo, no es lo mismo alquilar algo por un mes
+que hacerlo por un ajio, es decir entre mas lejana sea la fecha
+
+de expiraci6n mayor sera la prima a pagar por parte del inver-
+
+sionista. En el caso del “strike price”, entre mas alejado esté el
+
+strike del precio del activo, la opcién sera mas barata y entre
+mas cerca esté, sera mas cara.
+
+6. Las opciones también tienen un volumen diario de transaccio-
+
+nes, similar a los stocks, pero este volumen suele ser mucho
+mas bajo que el mercado accionario.
+
+Ejemplo aplicado
+1. éVa a subir 0 vaa
+
+bajar el activo?
+
+Lo que hemos estudiado es que el SPY cuando toca el prome-
+
+dio mévil de 100 y rompe el canal en hora suele subir, por lo
+tanto, debemos buscar opciones CALL.
+
+. Qué precio strike debo escoger?
+Lo que utilizo normalmente es dos dolares por encima del
+spot o precio actual; es decir, si el precio del SPY en el momento es 202 yo escogeria strike 204 0 205 maximo, (los precios
+a los cuales ain no ha llegado el activo se llaman “out of the
+
+money” o por fuera del dinero. Son un poco mas econémicos y
+mas sensibles ante cambios en el precio del activo.
+
+. €En cuanto tiempo va a subir?
+Para esto debemos revisar la historia. Normalmente el SPY
+sube entre 6 y 10 dolares aproximadamente, y lo hace en un
+periodo entre 2 y 4 semanas. Esta seria nuestra fecha de expiraci6n a escoger.
+
+{s2)
+
+

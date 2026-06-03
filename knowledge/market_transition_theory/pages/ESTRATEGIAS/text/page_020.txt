@@ -1,0 +1,110 @@
+CREA
+
+TU
+
+PROPIA
+
+RIQUEZA
+
+. ALEJANDRO
+
+ESTRATEGIAS
+
+CARDONA
+
+Actualmente el Unico instrumento financiero que permite comprar options’ después de las 4:00 p.m. hasta las 4:14:59 p.m.
+es el SPY. En el caso de las acciones, si se da un ‘trade’ donde la
+
+fuerte sino también
+
+AVANZADAS
+
+un ‘gap’ perfecto al alza. A continuacién
+
+muestro lo que pasé en el marco de tiempo hora como complemento
+
+de la estrategia.
+
+entrada me la estd dando la vela de las 4:00 p.m. tendria que
+hacerlo a las 3:58 0 3:59 p.m. antes del cierre; la razén es que
+
+después de las 4:00 p.m. ya no tomaria la orden.
+
+En esta oportunidad compré opciones CALL’ de FACEBOOK
+con tiempo
+
+de expiracién
+
+de una
+
+semana,
+
+el precio ‘spot’ o
+
+actual de la accién cuando hizo el ‘gap’ era 116, asi que busqué
+
+GRAFICO 9 - ESTRATEGIA DE PISO
+FUERTE EN FACEBOOKY PRIMER ‘GAP’ AL ALZA
+
+el ‘strike’ 119 que costaba 0.45 0 USSA4S5 cada uno ese dia.
+
+Cuatro
+
+dias
+
+después
+
+la accién
+
+habia
+
+subido
+
+a USS124,
+
+es
+
+decir que solo el valor intrinseco de la accién era (124 [precio
+
+final] - 119[precio strike]) = USS5 0 el equivalente
+
+a USS500.
+
+El ‘option’ tendria un valor cercano a ese valor; de hecho un
+poco mas caro porque los ‘options’ también tienen el valor del
+tiempo y
+
+la volatilidad del activo. Un valor estimado
+
+de ese
+
+‘option’ en esa época fue 5.56 como valor de venta final.
+Lo anterior quiere decir que si alguien tenia 10 contratos y los
+compré
+
+a OA5
+
+invirtid
+
+USS450.
+
+Cuatro
+
+dias
+
+mas
+
+adelante
+
+pudo vender cada contrato a 5.56 0 a USS556 para un total
+de USS$5,560.
+La forma en que el grafico se ve en el marco de tiempo hora
+
+Recuerdo muy bien ese ‘trade’ en Facebook. Se presentd el 3 de
+enero de 2017 cuando todo el mundo estaba de vacaciones. En
+el mercado estaba ocurriendo la mejor oportunidad del 2017
+empezando el afio. Ahi se presenté no solo la visita a un Piso
+
+es el siguiente:
+
+

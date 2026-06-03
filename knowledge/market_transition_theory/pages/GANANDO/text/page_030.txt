@@ -1,0 +1,65 @@
+GRAFICO
+
+GRAFICO
+
+21
+
+22
+
+7
+Supongamos que alguien compré SPY cuando el precio
+
+Este grafico resume el parrafo anterior y muestra el poder
+
+de ese ETF era 385. Buscé opciones put y encontré que el
+
+de mis modelos
+
+strike 379 tenia
+
+opciones que
+
+un costo de 0.25
+
+con tiempo
+
+de dos dias,
+
+y su precisién a la hora de comprar
+
+las
+
+conoces.
+
+por ejemplo, el dia de compra era un lunes y compro con
+expiracion al miércoles. Esta propiedad de fracciones semanales solo la tiene el SPY.
+A partir de ahi el SPY comienza
+
+a caer (como vemos
+
+en
+
+el grafico 22) y la opci6n queda mas adelante in the money
+porque el SPY cae por debajo de 379, llegando a 372, es decir,
+que esa opcidn put pas6 de costar 0.30 a mas de US$700.
+Obviamente, cuando esté Ilegando la fecha de expiracion
+este contrato debe venderse, primero, por la gran rentabilidad
+obtenida, y segundo,
+
+porque ya se acabé el tiempo y no
+
+queremos ejercer dicho contrato.
+
+|
+
+Ganando
+
+en cualquier contexto y direccién
+
+Alejandro Cardona
+
+|
+
+59.
+
+

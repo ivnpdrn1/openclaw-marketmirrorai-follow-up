@@ -1,0 +1,74 @@
+Crea tu Propia Riqueza
+Alejandro Cardona
+
+Crea tu Propia Riqueza
+Invirtiende con Poder
+
+instrumento que permite esto es el SPY, hasta las 4:15 pm como
+maximo. Comprar a estas horas asegura que los precios no rompan el piso del gap, lo cual es fundamental para tomar la decision
+de compra.
+
+Como muestra el grafico, la accién de Netflix presento un primer
+gap al alza. La primera vela fue verde, los precios respetaron el piso del gap durante todo el dia, el volumen fue importante y muy
+por encima del promedio. A partir de ese dia los precios subieron
+
+Otro requisito importante es que, en cualquiera de las velas verdes
+del gap debemos tener volumen. Este volumen debe ser mayor
+al promedio de las transacciones comunes. En el caso del SPY
+el volumen es 20 millones en hora. Las velas donde se presente
+este volumen deben estar bien formadas y ser velas alcistas, con
+cuerpos muy superiores a las colas. Las velas que tienen forma
+de martillos invertidos o colas pronunciadas en la parte superior
+no son tenidas en cuenta para este requisito, pues no funcionan
+adecuadamente. A continuacién, muestro cémo debe ser este
+requisito en hora:
+NFLX MARCO
+
+DE TIEMPO
+
+HORA - PRIMER GAP AL ALZA
+
+14 puntos, en solo dos dias, produciendo utilidades del 3000%.
+
+El primer gap al alza podemos resumirlo entonces de la siguiente
+forma: siempre se da después de una caida y se presenta cerca de
+un piso fuerte. El primer gap al alza no puede descifrarse en dia
+sino solo en hora. La primera vela debe de ser verde; a partir de
+
+ésta se dibuja el piso del gap y debe respetarse durante todo el
+dia. Las velas deben de ser alcistas, especialmente la que tiene el
+
+volumen, la cual debe superar el promedio de las transacciones
+
+habituales. En Netflix vemos claramente que la primera vela tuvo
+un volumen muy por encima del promedio. Cuando estos requisitos se cumplen, los precios recuperan la caida previa o suben a un
+nivel superior en cuestion de 2 0 3 dias, maximo en una semana.
+
+A partir de que se da el gap, es importante que la vela de apertura
+de los préximos dias sea verde y que respete los pisos de cada dia.
+La mayoria de veces el movimiento fuerte ocurre en una semana
+o
+
+menos.
+
+Por ese
+
+motivo,
+
+cuando
+
+compro
+
+opciones
+
+en
+
+esta
+
+estrategia, lo hago con expiraciones a una semana en “Strikes out
+of the money” o por fuera del dinero, pues de esta forma puedo
+lograr la maxima rentabilidad en el mercado de valores.
+A continuacién, comparto algunos trades o inversiones donde
+he multiplicado 10 y 20 veces la inversion, utilizando estas estrategias.
+
+

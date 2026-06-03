@@ -1,0 +1,108 @@
+Crea tu Propia Riqueza
+
+Crea tu Propia Riqueza
+Descubre el Mundo de las Inversiones y Aprende a Ganar en Ia Bolsa de Valores
+
+Alejandro Cardona
+
+hora, vamos a entender un poco mas de algunos indi-
+
+cadores y variables que usted debe tener en cuenta,
+con el fin de facilitar la toma de decisiones. En los
+
+graficos en www.freestockcharts.com que he mostrado en este libro, usted encuentra unas figuras rectangulares
+
+pee
+
+Cola o sombra sefiala
+el maximo
+
+eo
+
+encima de la apertura
+Cierre por
+marca
+una vela alcista, por esto
+
+con lineas, en colores verde y rojo. Se llaman “candlesticks” o velas
+(Figura 1). Ya sabemos que el color verde representa incrementos
+
+<<——____—_
+
+enel precio en un periodo determinado, y el color rojo las caidas en
+
+es verde
+
+El cuerpo de la velaes verde,
+
+por lo tanto es una vela alcista
+
+los precios.
+
+Las velas son importantes porque nos dan sefiales de compra
+
+ie
+
+y venta, también porque nos marcan cuatro precios esenciales:
+
+i
+
+maximo, minimo, apertura y cierre. Recuerde que el mercado
+
+abre a las 9:30 am y cierra alas 4:00 pm hora de New York. Una
+vela puede representar desde 1 minuto hasta meses 0 ajios.
+Usted puede colocar la unidad de tiempo que desee. Hasta
+el momento, hemos utilizado meses y dias en todos los graficos
+anteriores.
+
+Si asumimos que la unidad de tiempo es un mes, cada vela va a
+representar un mes diferente, por lo cual el precio de apertura
+
+sera el del primer dia de ese mes a las 9:30 am. El precio de cierre
+sera el precio marcado a las 4:00 pm del Ultimo dia de ese mes.
+
+Alser una vela verde, la apertura
+
+esta por debajo del cierre
+
+Cola de piso 0
+el minimo
+
+sombra sefiala
+
+GRAFICO 8
+
+SPORs
+
+Add Indicator
+Monthly
+Sar S00 Trust Sares ST
+Mon 10/31/11
+
+Settings
+
+Oren
+High
+Low
+bast
+Mol st Price
+Moving
+
+Average
+
+50
+
+5.050.092.022-00
+
+Durante ese mes hubo un precio maximo y uno minimo también,
+
+pero no fueron necesariamente los precios de apertura y cierre.
+Solo fueron precios a los cuales se realizaron transacciones durante ese mes. Podemos ver lo anterior en el GRAFICO 8:
+
+Moving
+
+Avetage
+
+50
+
+

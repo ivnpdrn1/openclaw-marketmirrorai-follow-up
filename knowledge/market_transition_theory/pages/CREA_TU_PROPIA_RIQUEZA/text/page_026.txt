@@ -1,0 +1,47 @@
+Crea tu Propia Riqueza
+Invirtienda con Peder
+
+Crea tu Propia Riqueza
+Alejandro Cardona
+
+ESTRATEGIA
+
+GRAFICO SPY EN HORA
+PM 40 - VELA DE ENTRADA
+
+CON VOLUMEN
+
+y (Sains
+| 9) 0G Ele| 8
+
+Este es un ejemplo claro del uso de las estrategias combinado con
+el volumen. Si el SPY hubiese tenido a esa hora solo 10 Millones,
+yo también hubiese realizado esa inversidbn de acuerdo con el
+presupuesto por “rade con que manejo mi cuenta. Uno de los
+principios a tener presente es que nunca uso mas del 10% del
+valor total de la cuenta para un “radeo inversion.
+El siguiente ejemplo es una estrategia idéntica, pero sin volumen
+de 20 MM en el SPY, aunque funcioné de hecho mejor, pues esta
+vez la inversién dio 400% en un dia.
+
+GRAFICO SPY EN HORA
+ESTRATEGIA PM 40 - VELA DE ENTRADA SIN VOLUMEN
+00% HCO cp
+
+Este es un caso claro para explicar el volumen. La vela de las 1 am
+fue verde, la estrategia se cumplid completa, pues los promedios
+moviles estan alineados; el de 20 esta por encima del de 40 en el
+marco detiempo hora. Al trazar una linea bajista, siguiendola caida
+que presento la vela de las 11 am, se rompe esa linea claramente.
+Ademas tiene volumen que confirma que los compradores estan
+tomando el control.
+Apenas ocurrié lo anterior, en esa ocasidn compramos Opciones
+Call del SPY. El precio spot era 248,5 y compramos un precio strike
+249,50 que costé $26 USD cada contrato. Al dia siguiente esos
+mismos contratos se vendieron por $80 USD cada uno.
+
+4)
+
+(ean
+
+

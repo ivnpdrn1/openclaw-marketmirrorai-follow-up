@@ -1,0 +1,75 @@
+Crea tu Propia Riqueza
+Alejandro Cardona
+
+Por Ultimo, vemos las ganancias en la casilla Total G/L que en
+este caso fue de $526. Tenga en cuenta que eso ocurrié solo en
+un dia. En muchos casos he visto en las opciones rentabilidades
+del 2,000 0 3,000% en periodos muy cortos. Si desea aprender mas sobre este tema, visite nuestra pagina, www.voptions.
+co y vera como hacemos dinero en vivo. iEspero tener noticias
+suyas pronto! Asista a nuestros seminarios. Varios de ellos son
+gratuitos.
+Para terminar, quiero mostrarle cémo se ven las cadenas de op-
+
+ciones, es decir, las fechas, strikes disponibles y algunos términos
+
+que debes conocer, asi como las variaciones que se tienen ante
+cambios en el activo, el cual en este caso es el SPY.
+
+CUADRO8
+ce
+
+SPDR
+
+S&P
+
+500
+
+TRUST
+
+210.075
+
+Crea tu Propia Riqueza
+Descubre el Mundo de las Inversiones y Aprende a Ganar en la Bolsd de Valores
+
+En el CUADRO 8 podemos observar lo siguiente: el activo que se
+
+esta mostrando es el SPY (Etf del S&P 500), el cual tuvo una variacién del 102% correspondiente a $2,12.
+
+Luego vemos tres cuadros: In the Money, Near at the Money y
+
+out of the Money.
+
+Aclaremos el primero, In the Money: si el precio del SPY actual
+
+es $210,07 por unidad, todos los precios strike que sean menores
+a ese se definen como In the Money, porque el SPY ya pas6 0 su-
+
+peré esos niveles de precio. Es decir, los strikes (208 a 210) estan
+Inthe Money.
+
+Normalmente esos precios son un poco mas costosos, pues ya
+tienen un valor intrinseco. Recuerde que las opciones financieras
+son un derecho a comprar (caso de los Calls) o a vender (caso de
+los Puts). Es decir, si yo compro strike 208 cuando el precio spot
+
+del SPY es $210 ya hay un valor intrinseco de $2. Siel lector revisa
+el precio de ese strike se dara cuenta que el ASK esta en $2,5] es
+decir, que esa opcidn vale $251, de los cuales $200 es valor intrinseco y $5] seria el valor del tiempo que estamos comprando; en
+este caso una semana.
+
+Apr 24, 2015 (4 ¢a
+
+La linea ptrpura me indica el precio actual o spot del SPY 0 activo
+de estudio. En este caso es $210,08 y luego vermos los strikes que
+estan por fuera del dinero “Out of the Money” ($210,5 y $211).
+Para ver los Calls debemos mirar en la parte izquierda del cuadro:
+vemos que el bid y ask en el strike $211 es (0,54 B - 0,56 A). Es
+
+decir, si yo fuera a comprar, me las venden a $0,56 cada una y si
+yo las tuviese y las fuera a vender me las compran a $0,54.
+En la parte de arriba, usted puede ver que hay diferentes fechas:
+entre mas tiempo compre mas dinero debe pagar.
+
+ise)
+
+

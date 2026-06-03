@@ -1,0 +1,79 @@
+[_:
+
+ruptura del piso del gap es una estrategia que no se
+ve regularmente, pero, al igual que como la primera vela
+
+roja de apertura, tiene
+
+bastante
+
+poder y nos anticipa
+
+GRAFICO
+
+10
+
+que
+
+el mercado va a continuar cayendo por ese dia o por esa
+
+semana.
+Estaremos analizando varios de estos trades. Como todas
+las estrategias, pueden
+mayoria
+
+se cumple
+
+salir mal algunas veces, pero en la
+
+su proyeccién. Cuando
+
+hablo
+
+de esta
+
+estrategia como ruptura del piso del gap, me refiero al bajista
+yalalcista. Cuando el mercado abre arriba o abajo y la primera
+vela es verde, es candidato al gap al alza o al gap bajista al
+alza. Sin embargo, esto no se sabe sino hasta las 11:00 a.m.
+Por ello, cuando
+
+vemos
+
+el mercado a
+
+las
+
+10:00
+
+a.m.
+
+y
+
+la primera vela es verde no significa que vamos a comprar
+calls necesariamente, pues si una vela roja rompe el piso de
+
+Asi como en la estrategia de primera vela roja de apertura el marco de tiempo es hora, a diferencia de la primera
+
+ese gap la sefal seria para hacer todo lo contrario, es decir,
+
+esta estrategia se aplica a partir de las 11:00 a.m. y en varias
+
+comprar puts. A continuacion, hay algunos ejemplos claros
+
+ocasiones el trade se da a las 11:00 a.m., o después. Lo impor-
+
+sobre esta estrategia.
+
+Ganando
+
+en
+
+cualquier contexto
+
+tante es comprar en vela final cuando se dé la ruptura del piso
+del gap, que se identifica a partir de la primera vela verde.
+
+y direccién
+
+

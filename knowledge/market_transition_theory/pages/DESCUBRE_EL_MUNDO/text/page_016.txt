@@ -1,0 +1,139 @@
+Crea tu Propia Riqueza
+Descubre el Mundo de las Inversiones y Aprende a Ganar en la Bolsa de Valores
+
+Crea tu Propia Riqueza
+Alejandro Cardona
+
+| analisis fundamental encontrado en los libros académicos es complejo. Por esta razon, en este libro nos
+hemos propuesto convertir lo complejo en algo facil,
+
+sencillo y aplicable. Cuando hablamos de funda-
+
+Muy bien, ésta es la informacion que nos da www.finviz.com sobre el stock de BANK OF AMERICA. Recordemos que un stock es un
+pedazo del total de una compaiiia, y es especificamente parte del
+patrimonio en el estado financiero. Por lo tanto, si no hay compafifa, no hay stocks (acciones). De igual manera se mencion6é que
+
+mental micro, nos referimos a los némeros al interior de una
+compaiiia. Vamos a utilizar el caso de Bank of America.
+
+vamosa hablar de compajiias pUblicas que cotizan en mercados de
+
+Para realizar el analisis fundamental podemos utilizar un sin-
+
+apoco lainformaci6n, de tal forma que usted esté en capacidad de
+
+nGmero de indicadores. Sin embargo, para efectos practicos
+estudiaremos solo unos cuantos, los cuales me han servido para
+tomar decisiones de inversion y han sido de gran utilidad.
+
+En la pagina www.finviz.com donde dice “search ticket” colocas
+
+el simbolo o nemotécnico de la accion, por ejemplo Bank of América que esta abreviado por la sigla BAC.’ APPLE esta abreviado
+
+valores organizados como NYSE y NASDAQ. Vamos filtrando poco
+escoger una accion de forma correcta, de acuerdo a este analisis.
+
+Observamos que en la primera casilla dice INDEX y en el caso de
+BAC, esta compajiia hace parte del SPY 500. Antes de continuar,
+
+quiero compartirle otro de mis secretos: Si desea escoger una em-
+
+presa, preferiblemente esta debe formar parte del S&P 500 o del
+Dow Jones. No le recomiendo hacer inversiones en “penny stocks”
+
+por AAPL, es decir que cada acci6n tiene su propia sigla. Para este
+caso colocaremos BAC y nos va a Salir en la parte de arriba una
+
+o en empresas que no tengan un volumen promedio diario de por
+lo menos 2 millones de acciones.
+
+apareceran los indicadores y la informacion que analizaremos.
+
+En la casilla que sigue esta el Market Cap: en el caso de BAC el
+valor es de 164,46 billones de dolares. Se llega a ese valor tomando el nUmero de acciones en circulacién (shs oustand) ubicado
+en la columna de indicadores némero 5, en la primera fila, con un
+
+grafica la cual no utilizaremos por ahora, y en la parte de abajo
+
+CUADRO 1
+T
+
+valor de 10,52 billones, y se multiplica por el precio del dia que es
+15,54 para este caso. Entonces el valor es de 164,46 billones.
+
+BAC [WYSE]
+Bank of America Corporation
+
+sap 500
+164.488
+8.468
+53.858
+2063
+FE
+5905
+PIC
+0.08
+0.26%
+239000
+Yes
+ves
+iT
+250
+SMA2o
+
+20.85
+
+10.528
+10,508
+0.89%
+1a
+17.19
+1249-1802
+“13.21%
+29.25%
+53.46
+0.69
+83.95"
+58,186,480 Change
+
+EF
+
+3.05
+0.76
+0.26
+
+101
+1.695
+
+2.42%
+6.39%
+9.91%
+0.57%
+23.54%
+0.58%
+1.68
+0.25
+161% 148%
+
+15.45
+15.64
+1.23%
+
+Fuente: finviz.com
+1
+
+Sigla que simplifica el nombre de la compajia.
+
+©
+
+Vemos ademas otras variables, como la utilidad neta (income) y
+
+los ingresos totales (sales), los cuales es importante que tengan
+
+un comportamiento creciente de afio a afio. Estas cifras podemos
+verlas en formato de estado financiero si hacemos clic en la parte superior derecha del cuadro donde podemos leer: (financial
+highlights / statements). También podemos encontrar toda
+la informacién en http://finance.yahoo.com/ e ingresamos el
+simbolo de la compaiiia.
+
+

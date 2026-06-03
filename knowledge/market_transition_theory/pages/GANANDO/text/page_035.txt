@@ -1,0 +1,84 @@
+GRAFICO
+
+23
+
+A partir del precio de US$307, aproximadamente, los resultados
+
+de la proyecciédn fueron
+
+los siguientes:
+
+(1) Si la
+
+accion subia el 5 % llegaria a US$322. (2) Con el 7 %, llegariaa
+US$328. (3) Con el 10 %, llegaria
+
+a US$338, strike que se con-
+
+sidera lejano 0 costoso.
+Cuando revisé las opciones disponibles, encontré que el
+strike 332.5, con expiracidn esa misma semana, costaba 0.80,
+
+es decir, un valor adecuado para FB, pues este se encontraba
+muy cerca al 7 % y no estaba tan lejos. FB dio el reporte y subi
+6.5 %, no tocé el strike 332.5, pero obtuvo una valorizacién
+
+del 400 % de un dia para otro. Los strikes que costaban 0.80
+se vendieron en 3.2-3.5, considerado como un resultado importante.
+
+Como se puede ver, el dia 28 de abril de 2021 FB llevaba dos
+
+semanas cayendo y en los ultimos 60 dias se habia formado
+un piso fuerte (trazado por la linea blanca), de manera que
+podiamos concluir que los pasos 1 y 2 se cumplian. El paso
+3 eran las estadisticas que, en el caso de FB eran del 44 %,
+
+consideradas aceptables. Posteriormente vino el analisis del
+strike, que tomando
+
+el precio de la accién de ese dia, casi al
+
+Haciendo el mismo estudio con AAPL, noté que esta accién también
+
+cumplia
+
+varios
+
+requisitos,
+
+pero
+
+por alguna
+
+razon no subi lo suficiente y las opciones no se valorizaron.
+Hice las dos, FB y AAPL, pero con la ganancia de FB obtuve un
+saldo positivo, aun perdiendo con AAPL, gracias a que inverti
+la misma cantidad en las dos acciones.
+
+Esta fue la venta:
+
+FB
+
+Apr 30‘21 $332.50 Call(FB) @ $3.15.
+
+cierre, estaba en 306.90.
+Es importante senalar que, en el caso de que el reporte se
+dé en la tarde, se deben comprar las opciones muy cerca al
+cierre, pues mi interés es quedar lo mas cerca del precio del
+cierre para no comprar tiempo que no necesito. Asi que este
+
+modelo tiene el supuesto de comprar a las 3:55 p.m. 0, si eres
+habil, a las 3:59 p.m., como lo he hecho algunas veces.
+68
+
+|
+
+Ganando en cualquier contexto y direccién
+
+Alejandro Cardona
+
+|
+
+69
+
+

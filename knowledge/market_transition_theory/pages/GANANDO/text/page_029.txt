@@ -1,0 +1,104 @@
+Hasta aqui hemos visto cuando comprar una opcion put
+de cuatro formas distintas: el modelo de la primera vela roja,
+la ruptura del piso del gap, el hanger en diario y el modelo
+para comprar puts dentro de un canal. Son estrategias muy
+sencillas, pero poderosas si usamos las opciones correctas y
+los valores para cada acci6n.
+
+O un ano para que, si su accion cae,
+
+ellos tengan el derecho de venderlas por el precio strike que
+hayan escogido. Cada contrato de puts da derecho a proteger
+100 acciones.
+Por ejemplo, si alguien compré 1.000 acciones de Bank of
+America
+
+(BAC) al precio de US$40, puede comprar
+
+de una casa: la mayorfa de las veces se paga y no se ejerce,
+aunque con los carros es mas comtn hacer la reclamacion. Al
+final, es mejor tenerlos que no tenerlos.
+
+Este es solo un ejemplo para
+
+entender
+
+Recordemos que las opciones put son un derecho para
+vender un activo financiero a un precio especifico o strike
+durante un periodo o fecha de expiraci6n. Los puts se usan
+como seguros. Cuando la gente tiene acciones puede comprar puts a seis meses
+
+el costo del seguro. Opera de manera similar que el seguro
+
+10 con-
+
+tratos put a seis meses con el strike 40. Ese contrato tendria
+un costo aproximado, y estoy utilizando precios reales, de 3.5
+o US$350. Como compré 1.000 acciones necesitaria 10 contratos, a razon de US$350 cada uno. El costo de asegurar o
+tener el derecho de vender las acciones de BAC a US$40, pase
+
+lo que pase, seria de US$3.500.
+
+por qué
+
+existen
+
+los
+
+puts. Obviamente, yo no los uso
+para eso, los uso para comprarlos
+baratos y venderlos caros; eso es
+todo.
+Para escoger un put y ganar
+
+una rentabilidad importante de-
+
+Recordemos
+
+que
+
+las opciones put
+son un derecho
+para vender un
+activo financiero
+a un precio
+
+especifico o
+
+strike durante
+
+un periodo
+
+bes escoger un strike en la zona
+
+9 fecha
+
+de
+
+fuera del dinero, es decir un strike
+
+expiracién.
+
+menor al precio de la accién. La
+mayoria de las veces en las que el precio de la acci6n se acerca al strike los puts se valorizan y llegan a mas del 100 %.
+Cuando una acci6n o ETF no solo se acerca al strike sino
+que lo pasa o supera, el put queda in the money y debe venderse antes de la fecha de expiracion para evitar bloqueos en
+la cuenta o adquirir compromisos financieros innecesarios.
+
+Si la accién cae a US$15, no importa, pues la persona que
+tiene las opciones put y las acciones adquirié el derecho de
+venderlas a US$40. Ahora, si el precio sube a US$50 no necesito ejercer el contrato y lo dejo expirar, pero se pierde
+
+56
+
+|
+
+Ganando en cualquier contexto y direecién
+
+Alejandro Cardona
+
+|
+
+57
+
+

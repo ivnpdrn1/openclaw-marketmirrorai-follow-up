@@ -1,0 +1,92 @@
+Crea tu Propia Riqueza
+Alejandro Cardona
+
+Crea tu Propia Riqueza
+
+OPCION. En el mercado a plazo, el derecho de comprar (call) o de
+
+Relaciona las utilidades con el rendimiento obtenido en la inversion.
+
+Invirtiendo con Poder
+
+vender (put), en un tiempo estipulado y a precio fijo, una materia
+prima o un producto financiero. El derecho que tiene el comprador de la opci6n se ejerce a su discrecién, mientras que para el
+emisor existe una obligacién contingente hasta la expiracién de
+la opcién.
+OPCION
+
+DE COMPRA
+
+(CALL). Es una Operacién
+
+con Derivado
+
+por virtud de la cual la Parte que la adquiere, obtiene el derecho
+de comprar el subyacente en una fecha y a un precio determinados y, a su vez, la parte que la vende queda obligada a vender tal
+subyacente. En las Opciones americanas, el comprador de la Opcion la puede ejercer en cualquier momento, antes y en la fecha
+de cumplimiento.
+OPCION DE VENTA (PUT). Es una Operacién con Derivado por
+virtud de la cual la Parte que la adquiere, obtiene el derecho de
+vender el subyacente en una fecha y a un precio determinados
+y, a su vez, la parte que la vende queda obligada a comprar tal
+subyacente. En las Opciones americanas, el vendedor de la Opcion
+la puede ejercer en cualquier momento, antes y en la fecha de
+cumplimiento.
+ROA
+
+(RENTABILIDAD
+
+DEL
+
+ACTIVO).
+
+Return
+
+on
+
+Asset.
+
+Razon
+
+financiera que muestra la rentabilidad de la empresa generada a
+partir de sus activos totales. Esta es calculada como Utilidad Neta
+sobre Activo Total.
+ROE (RENTABILIDAD DEL PATRIMONIO). Return on Equity. Razon
+financiera que muestra la rentabilidad de la empresa generada a
+partir de su patrimonio. Esta es calculada como Utilidad Neta sobre Patrimonio Total.
+
+S&P 500 (STANDARD & POOR’S 500). Es uno de los indices
+
+bursatiles mas importantes de EE.UU. Este indice registra el comportamiento promedio de todo el mercado bursatil de EE.UU. y
+esta compuesto por el precio de las 500 empresas mas importantes de ese pais.
+SEC (Security Exchange Commission). Agencia para gubernamental independiente norteamericana, encargada de vigilar el
+mercado bursatil. Vela por el respeto a la deontologia profesional y al derecho de los accionistas. Equivale a la Comisién de las
+operaciones de Bolsa (COB) en Francia y a la Superintendencia de
+
+Valores en Colombia.
+SPLIT. Es el fraccionamiento de las acciones que resulta de una
+disminuci6n en su valor nominal y es proporcional al mismo. Es la
+divisién del numero de acciones en circulacién de una sociedad,
+en un numero mayor de acciones; de forma tal que cada accion
+en circulacidn le da el derecho a su poseedor, de recibir a cambio
+un numero determinado de nuevas acciones. El patrimonio
+
+del accionista permanece estable ya que, aunque él posee mas
+acciones, estas bajan el valor ya que el valor de todas las acciones
+sumadas permanece igual.
+SUBYACENTE. Es el activo, tasa o indice bursatil de referencia,
+cuyo movimiento de precio determina el Precio en una operacién
+con derivado o una operacién spot, tales como: tasa de cambio,
+tasa de interés, divisas, productos basicos, indices bursatiles, titu-
+
+los, etcétera.
+
+ROI (RENTABILIDAD SOBRE LA INVERSION). Return on Investment.
+
+SWAP. Son contratos privados entre dos entidades para intercambiar flujos de caja en el futuro, de acuerdo con condiciones
+
+@
+
+bes)
+
+

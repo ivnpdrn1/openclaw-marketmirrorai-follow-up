@@ -1,0 +1,89 @@
+Crea tu Propia Riqueza
+Invirtiendo con Poder
+
+Crea tu Propia Riqueza
+Alejandro Cardona
+
+Una opcidn financiera es como tener un paquete de 100 acciones
+o indices. En el caso del SPY, el precio actual a enero de 2018 esta
+
+en $283 USD. Si fuese a comprar 100 de esos instrumentos tendria
+que invertir $28,300. Ahora, supongamos que el SPY sube de 283
+a 286; es decir, 3 puntos, y yo decidiera vender; el resultado seria
+28,600 menos las comisiones de compra y venta que podrian ser
+14 USD. Como se ve en este ejercicio, la inversién fue muy alta y la
+rentabilidad muy baja, lo cual hace este ejercicio poco atractivo.
+Por el contrario, con ese mismo movimiento otra persona decide
+comprar opciones del SPY. Suponga que comproé una opcién
+CALL del SPY, con fecha de expiracidn a una semana, las cuales son
+
+mas rentables. En la medida que escojo mas tiempo, las primas
+son mas caras y la reaccién de las opciones frente al cambio, en
+
+el activo subyacente, es menor cuanto mas tiempo compro. Ese
+instrumento, dependiendo del strike price —del cual hablaré a
+continuaci6n— puede tener un costo aproximado de $0.30 USD
+(prima); es decir, pago $30 USD ytengo la probabilidad de que ese
+valor pueda generar entre un 100% o mucho mas en un periodo
+de un dia o hasta una semana. Para esa fecha debo de vender,
+pues debo tomar la utilidad y ademas debo vender siempre antes
+de la fecha de expiraci6n, si estoy in the moneyo en el dinero. Esta
+situacién ocurre cuando el precio del activo pasa por el precio
+strike.E| SPY, a diferencia de otros ETF’s de indices y acciones, cuenta
+con tres vencimientos semanales (lunes, miércoles y viernes). Los
+
+demas solo tienen vencimiento los viernes. Es importante que
+recuerde que puede vender en cualquier momento una vez haya
+logrado su rentabilidad. De hecho, la opcién puede duplicarse o
+triplicarse el mismo dia.
+
+solo $30 en opciones financieras, pudo obtener exactamente los
+mismos $300 USD o mas debido al poder del apalancamiento
+financiero.
+Las opciones tienen una ventaja muy importante: el riesgo es
+limitado, pues solo amenazan
+
+el valor invertido. Es decir, que si
+
+invierte $100 USD, ése es su mayor riesgo, sin importar si tiene
+
+en su cuenta 20 mil dolares, los cuales no seran afectados por el
+resultado del ejercicio. Pero las utilidades no tienen limite, si el
+activo sube durante varios dias. He visto muchas veces opciones
+que costaban $20 0 $30 USD cada una, después de 3 0 4 dias costar
+$600 o hasta miles de délares, dependiendo del movimiento del
+activo.
+
+Durante mi experiencia en el mercado he podido deducir que los
+movimientos fuertes al alza ocurren rapidamente. Por lo anterior,
+no es muy astuto comprar demasiado tiempo por las razones
+antes mencionadas (costo y rentabilidad).
+
+Lo mismo ocurre al momento de escoger el Strike Price. Para esta
+variable debemos tener en cuenta que existe un precio actual
+del activo. Por ejemplo, supongamos que el SPY se encuentra en
+283, el cual es el precio sporo actual. Todos los precios menores
+
+a ése se encuentran en un area que llamaremos “in the money”o
+
+en el dinero. Esa area tiene dos inconvenientes: las opciones son
+mas caras y menos rentables, y algo que se llama valor intrinseco;
+
+es decir que el precio del activo ya pasé por el precio sérike, y la
+opcién puede ejercerse si se compré con ese propésito.
+
+bid de $283 a $286, donde invirtiendo $28,300 USD se generaron
+$300 USD aproximados de utilidad. Una persona que invirtid
+
+Las opciones nos dan el derecho a comprar o vender un activo a
+un precio determinado, durante un periodo de tiempo especifico;
+quiere decir que, pagando una prima podemos pactar el precio
+de algo antes de su compra. Sin embargo, no uso las opciones
+
+bes)
+
+7]
+
+Con un movimiento similar al del caso anterior, donde el SPY su-
+
+

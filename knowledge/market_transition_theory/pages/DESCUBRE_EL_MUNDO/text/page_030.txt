@@ -1,0 +1,75 @@
+Crea tu Propia Riqueza
+Descubre el Mundo de las Inversiones y Aprende a Ganar en la Bolsa’ de Valores
+
+os promedios méviles o “moving average” nos permiten
+confirmar la tendencia. Es decir, permiten asegurar si es-
+
+tamos en una tendencia al alza o a la baja, también nos
+ayudan a determinar si estamos comprando caro o barato.
+
+Para aclarar lo anterior debemos ver el GRAFICO 13. Ya sabemos
+que las velas son los cuatro precios de un dia, semana, afio, 1 hora
+
+ola unidad de tiempo que determinemos en la plataforma. Deba-
+
+jo de los precios vemos una linea de color azul oscuro, (Promedio
+
+mévil de 20), otra de color amarillo (Promedio mévilde 40) yuna
+blanca debajo de las anteriores (Promedio Mévil de 200). Estas
+
+lineas son los promedios de precios de las Ultimas 20, 40 y 200
+
+semanas, en este caso. Son méviles, porque dicho promedio va
+avanzando conforme trascurre el tiempo.
+z
+
+GRAFICO 13
+57%
+
+GE
+
+Di
+
+HOTA
+
++
+
+Mas importante que saber cémo se construye el indicador, es
+
+saber su utilidad. En la pagina freestockcharts.com, solo se debe
+
+colocar “adicionar indicador” (add indicador — moving avera-
+
+ge - price history), y sale automaticamente la linea. Una vez se
+tiene la linea dibujada en el grafico, en la parte superior, usted
+puede hacer clic sobre el promedio y hacerle “edit” para cambiar
+el 50 por 20. Usted puede repetir este ejercicio 3 veces para que
+
+al final obtenga los 3 promedios moviles, tal como se muestra en
+el grafico 13.
+Como mencioné, los promedios nos ayudan a confirmar la ten-
+
+dencia. En el GRAFICO 13 se presenta una tendencia al alza: la
+podemos reconocer primero, porque las velas o precios estan por
+encima de las lineas de los promedios de 20, 40 y 200. Segundo,
+las lineas de los promedios parecen como rieles de ferrocarril,
+es decir, van paralelas en una direccion inclinada, ascendente.
+Tercero, para reconocer esta tendencia alcista los precios deben
+
+estar por encima del promedio movil de 20. Este debe ser mayor
+o estar por encima del de 40, y el Ultimo por encima del de 200,
+como se muestra en el Grafico 14.
+
+Un factor clave para tener éxito en una tendencia como la del
+
+Grafico 13, es comprar cerca del promedio y vender
+
+lejos del
+
+promedio. Es decir que, si los precios estan cerca de las lineas
+
+dentro de la tendencia, nos esta indicando comprar y cuando
+los precios estan alejados de los promedios, nos esta indicando
+vender o salir de la posicion.
+
+

@@ -1,0 +1,167 @@
+FUTUROS.
+
+Es aquella transaccioén efectuada en un merca-
+
+INDICADOR
+
+BETA. Es un indicador del riesgo sistémico
+
+do secundario formal donde se negocia un contrato estan-
+
+o del mercado de la inversién en acciones, que permite es-
+
+darizado de compra o de venta de un activo determinado,
+
+tablecer que tan sensible es el comportamiento de la ren-
+
+acordandose la cantidad del activo, su precio y el vencimiento
+
+tabilidad de una accién cuando se presentan movimientos
+
+del contrato, asumiendo las partes la obligacién de celebrarlo
+
+en la rentabilidad del mercado accionario. Si el valor de BETA
+
+y el compromiso de pagar o recibir las pérdidas o ganancias
+
+para una accion es igual a 1, significan que los rendimientos
+
+producidas por las diferencias de precio del contrato, durante
+
+de ésta varian de manera
+
+la vigencia del mismo y su liquidacién.
+
+del
+
+mercado,
+
+proporcional a los rendimientos
+
+es decir que
+
+las acciones
+
+tienen
+
+el mismo
+
+rendimiento que el mercado. De otra parte, un BETA mayor
+GAMMA.
+
+Es una medida de la tasa de cambio de la delta
+
+que 1 significa que el rendimiento de la accién varia de ma-
+
+de la opcién
+
+por unidad
+
+nera mas que proporcional al rendimiento del mercado. Y un
+
+de cambio del precio del activo
+
+BETA menor que 1 significa que la accién varia de manera
+
+subyacente.
+
+menos que proporcional al mercado.
+
+GDR
+
+(GLOBAL
+
+DEPOSIT
+
+RECEIPTS).
+
+Certificados
+
+que pueden circular libremente en los mercados de capitales
+
+INDICE.
+
+globales que denotan acciones de companias
+
+variaciones de un fendmeno
+
+extranjeras,
+
+esto certificados estan registrados en Luxemburgo.
+
+Son el
+
+Es un indicador que tiene por objeto medir las
+
+dado. Los indices cumplen
+
+tienen subyacente la propiedad de unas acciones en algun
+
+reversibilidad y transitividad.
+
+foraneo. En realidad, no son tan comunes
+
+o de otro orden
+
+referido a un valor que se toma como base en un momento
+
+equivalente global (europeo) para los ADR. Estos certificados
+mercado
+
+econdmico
+
+las propiedades
+
+de identidad,
+
+ni su
+
+mercado es tan liquido como el de los ADR.
+
+La primera propiedad consiste en que el indice toma un La
+propiedad de reversibilidad se cumple cuando el indice de
+
+HEDGE
+
+FUNDS.
+
+Fondo de inversién 0 de cobertura es-
+
+base A, calculado para el periodo B
+
+(IB/A) es igual al inverso
+
+pecializado en las inversiones de tipo especulativo con el
+
+del indice de base B, calculado para el periodo a: IB/A = 1/
+
+fin de que una persona natural o juridica se proteja contra
+
+IA/B. Por ultimo, la propiedad
+
+alteraciones en los precios de mercancias 0 acciones.
+
+que el indice de un periodo es igual al producto de los indices
+
+de transitividad consiste en
+
+entre los subperiodos componentes.
+IMPLIED
+
+VOLATILITY.
+
+Es el porcentaje de volatilidad
+
+que produce el mejor ajuste para todas las opciones subyacentes del activo.
+
+118
+
+|
+
+Ganando en cualquier contexto y direecién
+
+Alejandro Cardona
+
+| 119
+
+

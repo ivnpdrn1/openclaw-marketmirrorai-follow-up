@@ -1,0 +1,145 @@
+CREA
+
+Asi
+
+que
+
+‘CALL’
+
+TU
+
+PROPIA
+
+RIQUEZA
+
+las condiciones
+en
+
+para
+
+.- ALEJANDRO
+
+considerar
+
+ESTRATEGIAS AVANZADAS
+
+CARDONA
+
+comprar
+
+esta
+
+GRAFICO Tl - DEAMAZON
+MOSTRANDO ENTRADAPOR
+‘GAP’ NORMAL AL ALZA
+
+opciones
+
+estrategia son: primero debemos tener un
+salto alcista entre el dia anteriory el dia que se esté mirand
+o el
+
+mercado; la primera vela debe de ser verde y alcista, la segund
+a
+
+también. Si esto se da, compramos las opciones
+‘CALL’ a las
+Tl am, ahi es prudente colocar el ‘limit’ para que
+el ‘option’
+
+se venda solo una vez y se duplique el precio de compra.
+Por
+ejemplo, si compré un ‘option CALL’ de NELX a USS2.2
+, o
+
+sea,
+
+a USS220
+
+y la comisién
+
+transaccién fue USS230:;
+
+fue de
+
+USSIO,
+
+el total de la
+
+el doble seria 4.6, mi precio ‘limit’
+
+Cuando se coloca un ‘limit price’ o precio al cual
+quiero vender
+en el futuro, es importante modificar la duracién
+de la orden y
+colocar GTC (Good Until Cancelled) 0 ‘Good for
+60 days’; si
+no hacemos eso la orden ‘limit’ se quita el mismo
+dia y al otro
+dia no va a estar. Eso podria afectarnos debido
+a que si por
+
+ul
+
+alguna razén el precio no se duplica el mismo dia
+y lo hace al
+dia siguiente, la orden ‘limit’ no va a estar y no
+se va a vender
+
+solo o automaticamente.
+
+El anterior es un
+
+‘gap al alza
+
+perfecto.
+
+Se
+
+presentd
+
+un salto
+
+entre el dia viernes 8 y el lunes 11 de marzo, es decir el lunes los
+
+A continuacién
+
+muestro ejemplos de mi estrategia de ‘GAP’
+
+NORMAL AL ALZA.
+
+precios amanecieron
+
+arriba, luego la primera vela fue verde y
+
+alcista en su formacién y la vela de las 11:00 am. fue perfecta.A
+las 1len punto compré opciones ‘CALL’ de Amazon a US$4.27
+cada una, y el mismo
+
+dia las vendi
+
+puse
+
+iba a estar en casa
+
+el ‘limit’ porque
+
+disponible;
+
+si hubiese tenido
+
+que
+
+a USS12.4.
+con
+
+En ese caso no
+el computador
+
+saliro algo, hubiese
+
+el ‘limit’ para no colocar mi utilidad en riesgo.
+
+colocado
+
+
