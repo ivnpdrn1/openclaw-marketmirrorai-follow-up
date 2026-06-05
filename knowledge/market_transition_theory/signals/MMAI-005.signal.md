@@ -14,7 +14,7 @@ Signal Type:
 
 
 
-PUT
+WAIT
 
 
 
@@ -22,13 +22,15 @@ Trigger Conditions:
 
 
 
-* Bearish channel detected
+- Confirmed bearish channel
 
-* Lower highs confirmed
 
-* Lower lows confirmed
 
-* SPY supportive
+- Price inside channel
+
+
+
+- No breakout confirmation
 
 
 
@@ -36,15 +38,31 @@ Alert Level:
 
 
 
-High
+Medium
 
 
 
-Confidence:
+Execution Bias:
 
 
 
-Pending Validation
+Avoid CALL entries while price remains inside the channel.
+
+
+
+Transition Trigger:
+
+
+
+Channel ceiling breakout.
+
+
+
+Expected Next Stage:
+
+
+
+MMAI-001
 
 
 
@@ -52,5 +70,4 @@ Status:
 
 
 
-Research
-
+Book Extracted

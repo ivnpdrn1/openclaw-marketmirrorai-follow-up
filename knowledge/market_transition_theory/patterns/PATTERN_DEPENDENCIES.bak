@@ -1,0 +1,253 @@
+# Pattern Dependencies
+
+
+
+Purpose:
+
+
+
+Define relationships between MMAI patterns.
+
+
+
+Not all patterns are independent.
+
+
+
+Some patterns act as prerequisites, confirmations, or extensions of other patterns.
+
+
+
+---
+
+
+
+## MMAI-001 → MMAI-002
+
+
+
+MMAI-001
+
+
+
+Piso Fuerte
+
+
+
+Role:
+
+
+
+Primary Bullish Reversal Structure
+
+
+
+Typical Sequence:
+
+
+
+1. Significant decline
+
+2. Piso Fuerte identified
+
+3. Hourly breakout
+
+4. Green confirmation candle
+
+5. Volume confirmation
+
+
+
+Possible Outcomes:
+
+
+
+* CALL entry
+
+* MMAI-002 development
+
+
+
+---
+
+
+
+MMAI-002
+
+
+
+Primer Gap al Alza
+
+
+
+Role:
+
+
+
+Bullish Confirmation Pattern
+
+
+
+Relationship:
+
+
+
+Often appears after MMAI-001.
+
+
+
+Provides additional confirmation that the prior decline may have ended.
+
+
+
+Typical Sequence:
+
+
+
+MMAI-001
+
+↓
+
+Bullish stabilization
+
+↓
+
+First bullish gap
+
+↓
+
+MMAI-002
+
+↓
+
+CALL confirmation
+
+
+
+---
+
+
+
+Operational Rule:
+
+
+
+When MMAI-001 and MMAI-002 appear together, confidence should increase.
+
+
+
+When MMAI-002 appears without evidence of MMAI-001, confidence should be reduced until validated.
+
+
+
+Status:
+
+
+
+Initial Dependency Map
+
+---
+
+
+
+## MMAI-005 → MMAI-001
+
+
+
+MMAI-005
+
+
+
+Canal Bajista
+
+
+
+↓
+
+
+
+Channel Ceiling Breakout
+
+
+
+↓
+
+
+
+MMAI-001
+
+
+
+Piso Fuerte
+
+
+
+Relationship:
+
+
+
+The breakout of a confirmed Canal Bajista may become the first structural evidence of a bullish reversal.
+
+
+
+Operational Rule:
+
+
+
+The breakout itself is not sufficient.
+
+
+
+MMAI-001 conditions must still be validated.
+
+
+
+---
+
+
+
+## MMAI-001 → MMAI-002
+
+
+
+MMAI-001
+
+
+
+Piso Fuerte
+
+
+
+↓
+
+
+
+Bullish Stabilization
+
+
+
+↓
+
+
+
+MMAI-002
+
+
+
+Primer Gap al Alza
+
+
+
+Relationship:
+
+
+
+Primer Gap al Alza frequently appears after a successful Piso Fuerte reversal.
+
+
+
+Operational Rule:
+
+
+
+When MMAI-001 and MMAI-002 appear together, confidence increases significantly.

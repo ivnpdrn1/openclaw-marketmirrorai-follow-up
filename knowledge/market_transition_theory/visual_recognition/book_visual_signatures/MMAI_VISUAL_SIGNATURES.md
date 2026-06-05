@@ -96,7 +96,11 @@ Book Page Units:
 
 ## MMAI-005
 
+
+
 Name:
+
+
 
 Canal Bajista
 
@@ -104,21 +108,61 @@ Canal Bajista
 
 Visual Signature:
 
-Price moves inside a downward channel with lower highs and lower lows.
+
+
+Price moves inside a descending channel bounded by a downward ceiling and a parallel floor.
 
 
 
 Main Visual Elements:
 
-- descending channel
 
-- lower highs
 
-- lower lows
+- two descending highs
 
-- failed rallies
 
-- bearish continuation
+
+- descending ceiling
+
+
+
+- parallel floor
+
+
+
+- price inside channel
+
+
+
+- repeated failure to break ceiling
+
+
+
+- breakout candidate
+
+
+
+- green breakout candle
+
+
+
+- hourly timeframe
+
+
+
+Primary Interpretation:
+
+
+
+WAIT
+
+
+
+Transition Interpretation:
+
+
+
+Potential precursor to MMAI-001.
 
 
 

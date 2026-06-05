@@ -22,13 +22,19 @@ Trigger Conditions:
 
 
 
-* Support reached
+* Significant prior decline
 
-* Rejection candle detected
+* Price near Piso Fuerte
 
-* Volume confirmation
+* Daily support identified
 
-* SPY stabilizing
+* Hourly trendline breakout
+
+* Green breakout candle
+
+* Volume above average
+
+* Confirmation after 11:00 AM preferred
 
 
 
@@ -48,9 +54,17 @@ Pending Validation
 
 
 
+Execution Bias:
+
+
+
+Prefer Hourly confirmation before entry.
+
+
+
 Status:
 
 
 
-Research
+Book Extracted
 

@@ -14,7 +14,7 @@ Rule 1
 
 
 
-Price must be inside a defined bearish channel.
+Hourly timeframe required.
 
 
 
@@ -22,7 +22,7 @@ Rule 2
 
 
 
-Lower highs must be present.
+Two descending highs must exist.
 
 
 
@@ -30,7 +30,7 @@ Rule 3
 
 
 
-Lower lows must be present.
+A descending channel ceiling must be visible.
 
 
 
@@ -38,7 +38,7 @@ Rule 4
 
 
 
-Volume should support downside movement.
+Price must remain inside the channel.
 
 
 
@@ -46,7 +46,7 @@ Rule 5
 
 
 
-No major bullish catalyst active.
+Buying CALLs inside the channel is discouraged.
 
 
 
@@ -54,21 +54,48 @@ Rule 6
 
 
 
-SPY should be neutral or bearish.
+Preferred action is WAIT.
 
 
 
-Decision
+Rule 7
 
 
 
-If Rules 1–6 are satisfied, classify as bearish continuation candidate.
+Bullish interest begins only after channel ceiling breakout.
 
 
 
-Status
+Rule 8
 
 
 
-Research
+Breakout candle should be green.
 
+
+
+Rule 9
+
+
+
+Confirmation after 11:00 AM is preferred.
+
+
+
+Decision:
+
+
+
+WAIT while inside channel.
+
+
+
+Evaluate CALL only after breakout confirmation.
+
+
+
+Status:
+
+
+
+Book Extracted

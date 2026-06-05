@@ -10,19 +10,49 @@ Piso Fuerte SPY
 
 
 
+Source Evidence:
+
+
+
+CREA TU PROPIA RIQUEZA
+
+
+
+* Pages 037–039
+
+
+
+Book Claims To Validate:
+
+
+
+* Strong support often produces major reversals.
+
+* The 100-day moving average frequently acts as support.
+
+* Hourly breakout confirmation improves accuracy.
+
+* Volume confirmation increases reliability.
+
+* Large upside moves can follow successful setups.
+
+
+
 Validation Requirements:
 
 
 
 * Historical examples
 
-* Bounce frequency
+* Support bounce frequency
 
-* False bounce analysis
+* Trendline breakout success rate
+
+* Volume confirmation correlation
 
 * SPY correlation
 
-* Volume correlation
+* False signal analysis
 
 
 
